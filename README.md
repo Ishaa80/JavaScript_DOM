@@ -1,4 +1,3 @@
-# JavaScript_DOM
 # DOM-MANIPULATION
 
 
